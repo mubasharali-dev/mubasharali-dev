@@ -8,8 +8,8 @@
 
 - 🔭 I’m currently working on [Cartsy Medicine Ecommerce App](https://github.com/mubasharali-dev/e-commerce-app)
 - 📽 My other projects are 
--     - [Movie Data Fetcher App](https://trending-movies-app-latest.netlify.app/) 
--     - [Memory Game](https://memory-game-vanila-js.netlify.app/)
+[Movie Data Fetcher App](https://trending-movies-app-latest.netlify.app/) 
+[Memory Game](https://memory-game-vanila-js.netlify.app/)
 - 🌱 I’m currently learning **JavaScript, ReactJs, Redux.**
 
 - 📫 How to reach me **mubashar.hashmat@gmail.com**
