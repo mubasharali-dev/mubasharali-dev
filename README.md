@@ -6,8 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/mubasharhashmat" target="blank"><img src="https://img.shields.io/twitter/follow/mubasharhashmat?logo=twitter&style=for-the-badge" alt="mubasharhashmat" /></a> </p>
 
-- 🔭 I’m currently working on [Cartsy Medicine Ecommerce App](https://github.com/mubasharali-dev/e-commerce-app)
-- 📽 My other projects are [Movie Data Fetcher App](https://trending-movies-app-latest.netlify.app/) and [Memory Game](https://memory-game-vanila-js.netlify.app/)
+- 🔭 I’m currently working on [Cartsy Medicine Ecommerce App](https://cartsy-medicine-ecommerce-app.netlify.app/)
+- 📽 My other projects are [Movie Data Fetcher App](https://trending-movies-app-latest.netlify.app/) and [FYP Management System](https://github.com/mubasharali-dev/fypms)
 - 🌱 I’m currently learning **JavaScript, ReactJs, Redux.**
 
 - 📫 How to reach me **mubashar.hashmat@gmail.com**
