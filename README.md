@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mubasharhashmat" target="blank"><img src="https://img.shields.io/twitter/follow/mubasharhashmat?logo=twitter&style=for-the-badge" alt="mubasharhashmat" /></a> </p>
 
-- 🔭 I’m currently working on [FYP Management System]([https://github.com/mubasharali-dev/fypms](https://fypms-ue.netlify.app/login)) 
+- 🔭 I’m currently working on [FYP Management System](https://fypms-ue.netlify.app/login)
 - 📽 My other projects are [Movie Data Fetcher App](https://trending-movies-app-latest.netlify.app/) and [Cartsy Medicine Ecommerce App](https://cartsy-medicine-ecommerce-app.netlify.app/)
 - 🌱 I’m currently learning **MERN Stack**
 
