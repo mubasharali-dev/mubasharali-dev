@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mubasharhashmat" target="blank"><img src="https://img.shields.io/twitter/follow/mubasharhashmat?logo=twitter&style=for-the-badge" alt="mubasharhashmat" /></a> </p>
 
-- 🔭 I’m currently working on [FYP Management System](https://fypms-ue.netlify.app/login)
+- 🔭 Have a look at my previous work [here](https://mubashar.vercel.app).
 - 📽 I am looking to collaborate on all things like MERN Stack, Next.js, Typescript, Redux, Tailwind CSS, MySQL, etc.
 - 🌱 I’m currently learning more about **MERN Stack and Typescript**
 
