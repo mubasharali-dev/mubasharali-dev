@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mubashar Ali</h1>
-<h3 align="center">Full Stack Developer - MERN</h3>
+<h3 align="center">Technical Project Manager</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubasharali-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mubasharali-dev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mubasharhashmat" target="blank"><img src="https://img.shields.io/twitter/follow/mubasharhashmat?logo=twitter&style=for-the-badge" alt="mubasharhashmat" /></a> </p>
 
-- 🔭 Have a look at my previous work [here](https://mubashar.vercel.app).
-- 📽 I am looking to collaborate on all things like MERN Stack, Next.js, Typescript, Redux, Tailwind CSS, MySQL, etc.
-- 🌱 I’m currently learning more about **MERN Stack and Typescript**
+- 📽 I am looking to collaborate on all things like Project Management, Agile/Scrum Methologies, Resource Allocation, Bugdeting and Scope.
+- 🌱 I’m currently learning more about **Project Management and Technical Coordination**
 
 - 📫 How to reach me **mubashar.hashmat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mubasharali-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mubashar ali" height="30" width="40" /></a>
 <a href="https://codepen.io/mubashar-ali-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mubashar-ali-dev" height="30" width="40" /></a>
 <a href="https://twitter.com/mubasharhashmat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mubasharhashmat" height="30" width="40" /></a>
 <a href="https://instagram.com/_mubashar_ali_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mubashar_ali_" height="30" width="40" /></a>
